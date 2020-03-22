@@ -1,3 +1,4 @@
+// Load event definition
 document.addEventListener("DOMContentLoaded", function() {
     fetch('http://localhost:8080/server/get_flora')
     .then(function(response) {
