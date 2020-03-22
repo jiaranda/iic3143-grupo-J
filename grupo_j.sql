@@ -1,8 +1,8 @@
 CREATE DATABASE grupo_j;
 
-CREATE USER "iic3142" IDENTIFIED BY "iic3142";
+CREATE USER "iic3143" IDENTIFIED BY "iic3143";
 
-GRANT SELECT, INSERT ON grupo_j.* TO 'iic3142'@'%';
+GRANT SELECT, INSERT ON grupo_j.* TO 'iic3143'@'%';
 
 USE grupo_j;
 

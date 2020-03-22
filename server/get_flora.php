@@ -2,8 +2,8 @@
 
 # Database config
 $dbname = 'grupo_j';
-$dbuser = 'iic3142';
-$dbpass = 'iic3142';
+$dbuser = 'iic3143';
+$dbpass = 'iic3143';
 $dbhost = '127.0.0.1';
 
 # Database connection
